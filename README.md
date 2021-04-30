@@ -1,1 +1,11 @@
 # KOCKA_2021
+![trophy](https://user-images.githubusercontent.com/76406161/116642105-64f1d880-a96e-11eb-92ea-410a336376a1.png)
+![dice1](https://user-images.githubusercontent.com/76406161/116642108-658a6f00-a96e-11eb-8b21-ae995101c01e.png)
+![dice2](https://user-images.githubusercontent.com/76406161/116642109-66230580-a96e-11eb-935e-0692da01df77.png)
+![dice3](https://user-images.githubusercontent.com/76406161/116642110-66230580-a96e-11eb-92d0-3e4a8103e490.png)
+![dice4](https://user-images.githubusercontent.com/76406161/116642113-66230580-a96e-11eb-9eca-25cf16a4da47.png)
+![dice5](https://user-images.githubusercontent.com/76406161/116642114-66bb9c00-a96e-11eb-92cb-3623576f55d7.png)
+![dice6](https://user-images.githubusercontent.com/76406161/116642115-66bb9c00-a96e-11eb-8889-f30bbe0a5b54.png)
+![medal2](https://user-images.githubusercontent.com/76406161/116642116-66bb9c00-a96e-11eb-8dec-8face6264247.png)
+![medal3](https://user-images.githubusercontent.com/76406161/116642117-67543280-a96e-11eb-846e-9487e939efc2.png)
+![ozadje](https://user-images.githubusercontent.com/76406161/116642118-67ecc900-a96e-11eb-8f8f-7f1038411423.jpg)
